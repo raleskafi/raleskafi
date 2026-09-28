@@ -6,9 +6,6 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Uwd3VwaDRhZWQ2dnVjYzNnMXdrcnJ5ejFsNDQ5eWRreHdlYzh0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PSqwBQHGbsQurQbW2u/giphy.gif" width="80%" />
 
-
-
-
 </div>
 
 ---
@@ -17,11 +14,13 @@
 
 <div align="center">
 
-
 [![My Skills](https://skillicons.dev/icons?i=java,cs,py,php,js,html,css,react,dotnet,bootstrap,jquery,mysql,firebase,azure,aws,unity,figma,git,github,linux,powershell,visualstudio,vscode,windows,swift,notion,discord,stackoverflow,octave,sklearn&perline=10&theme=dark)](https://skillicons.dev)
 
 </div>
 
+## 🤖 Also Working With
+
+`Gitea` `NetBeans` `SPFx` `Enterprise Architect` `Power Automate` `Prompt Engineering` `SQL` `MS Office` `Object-Oriented Design`
 
 ## 🌐 Reach Out
 
