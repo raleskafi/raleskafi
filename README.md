@@ -16,11 +16,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,cs,py,php,js,html,css,react,dotnet,bootstrap,jquery,mysql,firebase,azure,aws,unity,figma,git,github,linux,powershell,visualstudio,vscode,windows,swift,notion,discord,stackoverflow,octave,sklearn&perline=10&theme=dark)](https://skillicons.dev)
 
-</div>
+</div>## 🤖 Also Working With
 
-## 🤖 Also Working With
-
-`Gitea` `NetBeans` `SPFx` `Enterprise Architect` `Power Automate` `Prompt Engineering` `SQL` `MS Office` `Object-Oriented Design`
+`Gitea` `NetBeans` `SPFx` `Enterprise Architect` `Power Automate` `Prompt Engineering` `SharePoint` `SQL` `MS Office` `Object-Oriented Design`
 
 ## 🌐 Reach Out
 
