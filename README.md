@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Raghad ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-### Programming Student | Software Engineer | Full-stack Developer
+### Senior Programming Student | Software Engineer | Full-stack Developer
 #### Passionate about building modern applications, exploring new technologies, and continuously improving my skills through real-world projects.
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Uwd3VwaDRhZWQ2dnVjYzNnMXdrcnJ5ejFsNDQ5eWRreHdlYzh0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PSqwBQHGbsQurQbW2u/giphy.gif" width="80%" />
